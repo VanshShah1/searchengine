@@ -35,7 +35,7 @@ for:
     - image: Visual Studio 2019
  
   after_build:
-  - 7z a search.zip %CD%\dist\*.exe
+  - 7z a search-windows.zip %CD%\dist\*.exe
  
   artifacts:
   - path: search-windows.zip
