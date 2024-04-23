@@ -3,3 +3,4 @@ neurum
 googlesearch-python
 bs4
 requests
+pyinstaller
