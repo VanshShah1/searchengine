@@ -1,0 +1,5 @@
+flet
+neurum
+googlesearch-python
+bs4
+requests
